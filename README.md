@@ -7,14 +7,15 @@ This project attempt to simulate human-level emotion and motivation via building
 #####Current Objectives (version: FION)
 Using current state (determined by past memory and states, emotion module) as a determination for resource (processing power) allocation.
 
-#######Modules
+######Modules
 Emotion: Resource (CPU) allocation module
 
 Expectant: Prediction module of following input outcome
 
-Echo: Memory allocation of storing past state
+Echo: Memory allocation of storing past state and linking emotion, expectant, and ection. (Ideas)
 
 Ection: Output module based on prediction (Expectant)
+
 
 
 
