@@ -4,7 +4,7 @@
 ### Overall Objective
 This project attempt to simulate human-level emotion and motivation via building blocks in an closed form operating system (O.S) as the foundation of an artificial general intelligence given the required sensors, output, and computational power.
 
-#####Current Objectives (version: FION)
+#####Current Objectives (version: FOIN)
 Using current state (determined by past memory and states, emotion module) as a determination for resource (processing power) allocation.
 
 ######Modules
