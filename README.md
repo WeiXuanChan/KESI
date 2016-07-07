@@ -10,11 +10,13 @@ Using current state (determined by past memory and states, emotion module) as a 
 ######Modules
 Emotion: Resource (CPU) allocation module
 
-Expectant: Prediction module of following input outcome
+Expectant: Prediction module of following input outcome (paired with output) (access to memory)
 
 Echo: Memory allocation of storing past state and linking emotion, expectant, and ection. (Ideas)
 
-Ection: Output module based on prediction (Expectant)
+Ection: Output module based on prediction (Expectant) (contains output driver)
+
+Experience: Input driver to sensible data, (include input emotion (current state))
 
 
 
